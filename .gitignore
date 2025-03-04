@@ -1,0 +1,6 @@
+
+*.pt
+*.pth
+
+/projectnb/aicv/Shihua_Qin/Semi_supervised_BML/data/
+lama/outputs/
